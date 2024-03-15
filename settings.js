@@ -40,7 +40,7 @@ module.exports = {
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
+  ANTI_LINK : true,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
