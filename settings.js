@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/dec2ff96476d6ab1682cf.jpg',
+    ALIVE: 'https://telegra.ph/file/aac1c2f26270eaf1508f5.jpg',
     WELCOME: 'https://telegra.ph/file/6726f9819c5b43fa46423.jpg',
     GOODBYE: 'https://telegra.ph/file/11352754f2ca1a1b8c73a.jpg'
   },
